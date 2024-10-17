@@ -1,0 +1,21 @@
+
+/************ Footer ******************/
+
+.footer {
+    color: #fff;
+    text-align: center;
+    position: relative;
+    margin-top: 800px;
+}
+
+.footer a {
+    color: #fff;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.footer p {
+    font-size: 20px;
+    margin: 0 10px;
+    padding: 2px;
+}
